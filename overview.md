@@ -9,3 +9,9 @@ ext install magma
 ```
 ## Screenshot
 Screenshot of JavaScript, Python and Go.
+
+![Imgur](https://i.imgur.com/lTheKt4.png)
+
+![Imgur](https://i.imgur.com/APmfi3A.png)
+
+![Imgur](https://i.imgur.com/vDnzqW2.png)
