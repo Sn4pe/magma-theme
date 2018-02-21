@@ -44,7 +44,7 @@ These names come from [Name That Colour](http://chir.ag/projects/name-that-color
 ---
 
 ## Changelog
-[Click here](https://github.com/Sn4peW/Magma-Theme/changelog)
+[Click here](https://github.com/Sn4peW/magma-theme/blob/master/CHANGELOG)
 
 ## License
 MIT
