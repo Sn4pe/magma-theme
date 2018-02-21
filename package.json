@@ -1,27 +1,26 @@
 {
     "name": "magma",
     "displayName": "Magma Theme",
-    "description": "A simple theme for Visual Studio Code, but be careful, burn",
-    "version": "0.0.1",
+    "description": "A simple theme, but be careful, ¡BURN!",
+    "version": "0.3.0",
     "publisher": "Sn4peW",
     "engines": {
-        "vscode": "^1.20.0"
+        "vscode": "^1.12.0"
     },
-    "categories": [
-        "Themes"
-    ],
+    "categories": ["Themes"],
     "contributes": {
         "themes": [{
-            "label": "Magma",
-            "uiTheme": "vs-dark",
-            "path": "./theme/magma-theme.json"
-        }]
+                "label": "Magma",
+                "uiTheme": "vs-dark",
+                "path": "./theme/magma-theme.json"
+            }
+        ]
     },
-    "homepage": "http://sn4pew.io/magma/",
+    "homepage": "https://sn4pew.github.io/magma-them",
     "bugs": {
         "url": "https://github.com/Sn4peW/Magma-Theme/issues"
     },
-    "icon": "img/magma.png",
+    "icon": "./img/magma.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Sn4peW/Magma-Theme"
