@@ -1,7 +1,7 @@
 # 🔥 Magma Theme
 [_A simple theme for Visual Studio Code, but be careful, ¡BURN!_](https://sn4pew.github.io/magma-theme) 
 <br>
-[![GitHub stars](https://img.shields.io/github/stars/Sn4peW/Magma-Theme.svg?style=social&label=Stars)](https://github.com/Sn4peW/magma-theme/stargazers)[![GitHub forks](https://img.shields.io/github/forks/Sn4peW/magma-theme.svg?style=social&label=Fork)](https://github.com/Sn4peW/magma-theme/network)[![license](https://img.shields.io/github/license/Sn4peW/magma-theme.svg)](https://github.com/Sn4peW/magma-theme/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Sn4peW/magma-theme.svg)](https://github.com/Sn4peW/magma-theme/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Sn4peW/Magma-Theme.svg?style=social&label=Stars)](https://github.com/Sn4peW/magma-theme/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Sn4peW/magma-theme.svg?style=social&label=Fork)](https://github.com/Sn4peW/magma-theme/network) 
 ---
 
 ## Install
