@@ -23,22 +23,24 @@ Screenshot of JavaScript, Python and Go.
 ---
 
 ## Colors
-* `#fff`
-* `#abb2bf`
-* `#9da5b4`
-* `#6B717D`
-* `#3E445177`
-* `#221e22`
-* `#8454A0`
-* `#44355b`
-* `#31263e`
-* `#eca72c`
-* `#ffa904`
-* `#ee7b06`
-* `#ee5622`
-* `#C62D42`
-* `#a12424`
-* `#400b0b`
+These names come from [Name That Colour](http://chir.ag/projects/name-that-color).
+
+* `#FFFFFF` - White
+* `#abb2bf` - Cadet Blue
+* `#9da5b4` - Gray Chateau
+* `#6B717D` - Pale Sky
+* `#3E4451` - Bright Gray
+* `#221e22` - Thunder
+* `#8454A0` - Affair
+* `#44355b` - Martinique
+* `#31263e` - Bleached Cedar
+* `#eca72c` - Fuel Yellow
+* `#ffa904` - Yellow Sea
+* `#ee7b06` - Tahiti Gold
+* `#ee5622` - Flamingo
+* `#C62D42` - Brick Red
+* `#a12424` - Mexican Red
+* `#400b0b` - Aubergine
 ---
 
 ## Changelog
